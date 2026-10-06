@@ -1,0 +1,6 @@
+Method overriding
+-->redefining in child class of a parent function and extending both the
+existing function in parent class and redefined parent function in child class
+by using super().parent_class function().
+
+-->
